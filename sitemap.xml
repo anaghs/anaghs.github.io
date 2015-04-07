@@ -6,22 +6,18 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://anaghs.github.io/archive.html</loc>
-  <lastmod>2015-03-29</lastmod>
+  <lastmod>2015-04-07</lastmod>
  </url>
  <url>
   <loc>http://anaghs.github.io/categories/index.html</loc>
-  <lastmod>2015-03-29</lastmod>
- </url>
- <url>
-  <loc>http://anaghs.github.io/galleries/index.html</loc>
-  <lastmod>2015-03-29</lastmod>
+  <lastmod>2015-04-07</lastmod>
  </url>
  <url>
   <loc>http://anaghs.github.io/index.html</loc>
-  <lastmod>2015-03-29</lastmod>
+  <lastmod>2015-04-07</lastmod>
  </url>
  <url>
   <loc>http://anaghs.github.io/listings/index.html</loc>
-  <lastmod>2015-03-29</lastmod>
+  <lastmod>2015-04-07</lastmod>
  </url>
 </urlset>

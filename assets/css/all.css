@@ -605,3 +605,12 @@ article.post-micro {
 .row {
     margin: 0;
 }
+
+footer {
+    bottom: 0px;
+    padding: 5px;
+    position: fixed;
+    font-size: 75%;
+    width: 100%;
+    background-color: white;
+}
