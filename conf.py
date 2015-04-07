@@ -388,10 +388,21 @@ REDIRECTIONS = []
 #     ]
 # }
 
+DEPLOY_COMMANDS = {
+    'default': [
+        'nikola orphans|xargs rm || true',
+        'nikola build',
+        'nikola github_deploy',
+    ]
+}
+
 # For user.github.io OR organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
 # GITHUB_SOURCE_BRANCH = 'master'
 # GITHUB_DEPLOY_BRANCH = 'gh-pages'
+GITHUB_SOURCE_BRANCH = 'source'
+GITHUB_DEPLOY_BRANCH = 'master'
+GITHUB_REMOTE_NAME = 'origin'
 
 # The name of the remote where you wish to push to, using github_deploy.
 # GITHUB_REMOTE_NAME = 'origin'
