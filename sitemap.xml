@@ -5,19 +5,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+  <loc>http://anaghs.github.io/2015/index.html</loc>
+  <lastmod>2015-04-11</lastmod>
+ </url>
+ <url>
   <loc>http://anaghs.github.io/archive.html</loc>
-  <lastmod>2015-04-07</lastmod>
+  <lastmod>2015-04-11</lastmod>
  </url>
  <url>
   <loc>http://anaghs.github.io/categories/index.html</loc>
-  <lastmod>2015-04-07</lastmod>
+  <lastmod>2015-04-11</lastmod>
  </url>
  <url>
   <loc>http://anaghs.github.io/index.html</loc>
-  <lastmod>2015-04-07</lastmod>
+  <lastmod>2015-04-11</lastmod>
  </url>
  <url>
-  <loc>http://anaghs.github.io/listings/index.html</loc>
-  <lastmod>2015-04-07</lastmod>
+  <loc>http://anaghs.github.io/posts/test-1.html</loc>
+  <lastmod>2015-04-11</lastmod>
+ </url>
+ <url>
+  <loc>http://anaghs.github.io/posts/test.html</loc>
+  <lastmod>2015-04-11</lastmod>
  </url>
 </urlset>
